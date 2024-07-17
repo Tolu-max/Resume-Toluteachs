@@ -1,0 +1,41 @@
+* {
+    text-transform: capitalize;
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+/*m stands as the h1 for the header*/
+.m {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.hr {
+    padding: 10px;
+}
+/*Making life better*/
+main p, h1, h2, small, ul, h6{
+    margin-left: 20px;
+}
+/*Trying to adjust it to fill from the side*/
+ul {
+    position: relative;
+    left: 300px;
+    top: -25px;
+}
+h6 {
+    position: relative;
+    left: 300px;
+    top: -30px;
+    font-size: 20px;
+}
+
+footer {
+    margin: 20px;
+}
+.profile p {
+    position: relative;
+    left: 300px;
+    width: 350px;
+    top: -25px;
+}

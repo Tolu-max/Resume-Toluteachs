@@ -1,0 +1,2 @@
+# Resume
+ This HTML resume page is designed by Tolutechs specifically for showcasing professional qualifications and experience on GitHub. It features a clean and modern layout optimized for readability and accessibility. The design emphasizes simplicity and clarity, making it easy for potential employers or collaborators to quickly grasp key information about your skills and background.  God bless you!
